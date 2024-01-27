@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/digikull/static/css/main.d7ebb409.css",
+    "main.js": "/digikull/static/js/main.79531d83.js",
+    "index.html": "/digikull/index.html",
+    "main.d7ebb409.css.map": "/digikull/static/css/main.d7ebb409.css.map",
+    "main.79531d83.js.map": "/digikull/static/js/main.79531d83.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d7ebb409.css",
+    "static/js/main.79531d83.js"
+  ]
+}
